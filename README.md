@@ -1,15 +1,13 @@
 ### Hello, I'm Burcu Duman!
 
 <h3 align="left">A little about me...</h3>
-<p align="left">I'm an Electrical and Electronics Engineer graduated from Bilkent University 20'. I'm a newbie in Data Analytics also I have hands-on experience on MATLAB, Java and 8051 Assembly. In my daily life I love to sing, going long walks and fitness. </p>
+<p align="left">I'm an Electrical and Electronics Engineer graduated from Bilkent University 20'.. </p>
 
 
 <h3 align="left">A few quick facts</h3>
-- 🔭 I’m currently working with Google BigQuery <br/>
 - 🌱 I’m currently learning SQL and Python <br/>
 - 💬 Ask me about, I am happy to help<br/>
-- 📫 How to reach me: <a href="mailto:burcuduman808@gmail.com" target="_blank">burcuduman808@gmail.com</a> <br/>
-- 🍒 Fun fact: I have a cold allergy ❄ and 2 cats 🐱 </p>
+- 📫 How to reach me: <a href="mailto:burcuduman808@gmail.com" target="_blank">burcuduman808@gmail.com</a> <br/> </p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
